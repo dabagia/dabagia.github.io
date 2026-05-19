@@ -8,6 +8,7 @@
 ![RMBL Landscape](assets/000016970011.jpg) Looking towards Copper Creek and White Rock Mountain, PI Cabins in South Gothic in the foreground. N. Dabagia, via Minolta SRT 101 on Ilford Delta HP5, 2024.
 #### I also undertook research further afield while in my undergrad at the aforementioned RMBL, first as an NSF REU student, then as a research tech, and finally now as a PhD student. At the RMBL, I developed an REU research project to assess the impacts of various floral nectar microbes on pollinator behavior, and worked on other projects assessing the fitness impacts of nectar microbes on the plants that they inhabit. I have further served as a research team lead on the NSF-funded bee/flower phenology LongTerm Ecological Research (LTER) project led by PI [Becky Irwin (NCSU)](https://cals.ncsu.edu/applied-ecology/people/reirwin/). Becky remains a close associate and serves on my PhD committee.
 ## Research
+![Washington Gulch and Crested Butte](assets/000016950031.jpg) The Washington Gulch, with Crested Butte in the background, from the Painted Boy Mine. N. Dabagia, via Minolta SRT 101 on Ilford Delta HP5, 2024.
 #### My graduate research is funded by an NSF NRT fellowship through the [CAMBIUM program](https://cambium.arizona.edu) at the University of Arizona, as well as the [Jean H. Langenheim](https://en.wikipedia.org/wiki/Jean_Langenheim) graduate research fellowship at the RMBL.
 ## Papers
 #### ~Feel free to shoot me an email should any manuscript be unavailable~

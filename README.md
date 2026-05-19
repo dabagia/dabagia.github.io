@@ -9,6 +9,7 @@
 ## Research
 #### My graduate research is funded by an NSF NRT fellowship through the [CAMBIUM program](https://cambium.arizona.edu) at the University of Arizona, as well as the [Jean H. Langenheim](https://en.wikipedia.org/wiki/Jean_Langenheim) graduate research fellowship at the RMBL.
 ## Papers
+#### ~ Feel free to shoot me an email should any manuscript be unavailable. ~
 #### [Nectar yeast scent additions fail to impact overall bouquet and bumble bee visitation in a montane herb](https://www.journals.uchicago.edu/doi/pdf/10.1086/740774) (IJPS, in press).
 #### with Valerie Martin, Daniel Souto-Vilaros, Robert Schaeffer, & Becky Irwin.
 #### [Yeast volatiles promote larceny in bumble bee behavior](https://www.cell.com/iscience/fulltext/S2589-0042(26)00321-4) (iScience, 2026).

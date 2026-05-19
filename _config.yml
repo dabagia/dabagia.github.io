@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Nick Dabagia - Pollination Ecologist
 description: my personal website - scroll for a short biography, a list of my written works, current and past projects, and a sample of my creative endeavors.
-image: [!headshot](assets/DabagiaHeadshot copy.jpg)
+image: ![headshot](assets/DabagiaHeadshot copy.jpg)

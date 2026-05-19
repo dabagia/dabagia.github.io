@@ -3,3 +3,6 @@
 #### I am fundamentally a field ecologist, no doubt because of my childhood spent rambling through the remnant blackland prairies and limestone creeks of North Texas, but also the summer I spent taking courses and doing fieldwork at 'Bug Camp', the [University of Michigan Biological Station](https://lsa.umich.edu/umbs) in Northern Michigan.
 ## Professional Background
 ## Research
+## Papers
+## Contact Me
+####[lastname]@arizona[dot]edu

@@ -10,7 +10,7 @@
 ## Research
 ![Washington Gulch and Crested Butte](assets/000016950031.jpg) The Washington Gulch, with Crested Butte in the left background and Whetstone Mountain in the far right, from the Painted Boy Mine, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta HP5, 2024.
 #### My graduate research is funded by an NSF NRT fellowship through the [CAMBIUM program](https://cambium.arizona.edu) at the University of Arizona, as well as the [Jean H. Langenheim](https://en.wikipedia.org/wiki/Jean_Langenheim) graduate research fellowship at the RMBL.
-![2025 field team, in front of mountain lake](assets/000086650033.jpg) 2025 bee-flower phenology LTER field team, on Galena Mountain, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta FP4, 2025.
+![2025 field team, in front of mountain lake](assets/000086650033.jpg) 2025 bee-flower phenology LTER field team (back row, left to right: Abby Litchfield, Jade McLaughlin, Ian Garcia; front row: Nick Dabagia), on Galena Mountain, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta FP4, 2025.
 ## Papers
 #### ~Feel free to shoot me an email should any manuscript be unavailable~
 #### [Nectar yeast scent additions fail to impact overall bouquet and bumble bee visitation in a montane herb](https://www.journals.uchicago.edu/doi/pdf/10.1086/740774) (IJPS, in press).

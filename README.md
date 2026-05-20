@@ -24,6 +24,5 @@
 #### [lastname]@arizona[dot]edu
 ## Random thoughts
 #### I did some research to find who is in my academic lineage (my advisor is my academic parent, my advisor's advisor is my grandparent, etc). If you've never used [The Academic Tree](https://academictree.org), give it a try. I went back far enough to discover Kant and Copernicus in our lineage...
-#### 
-> And NUH is the letter I use to spell nutches\ Who live in small caves, known as niches, for hutches.\ these nutches have troubles, the biggest of which is\ the fact that there are many more nutches than niches\ each nutch in a niche knows that some other nutch\ would like to move into his niche very much.\ so each nutch in a niche has got to watch that small niche\ or nutches who haven’t got niches will snitch
-> Dr. Seuss
+#### And NUH is the letter I use to spell nutches\ Who live in small caves, known as niches, for hutches.\ these nutches have troubles, the biggest of which is\ the fact that there are many more nutches than niches\ each nutch in a niche knows that some other nutch\ would like to move into his niche very much.\ so each nutch in a niche has got to watch that small niche\ or nutches who haven’t got niches will snitch
+Dr. Seuss

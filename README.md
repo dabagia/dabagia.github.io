@@ -9,7 +9,9 @@
 ![RMBL Landscape](assets/000016970011.jpg) Looking towards Copper Creek and White Rock Mountain, PI Cabins in South Gothic in the foreground, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta HP5, 2024.
 #### I also undertook research further afield while in my undergrad at the aforementioned RMBL, first as an NSF REU student, then as a research tech, and finally now as a PhD student. At the RMBL, I developed an REU research project to assess the impacts of various floral nectar microbes on pollinator behavior, and worked on other projects assessing the fitness impacts of nectar microbes on the plants that they inhabit with [Robert Schaeffer's](https://artsci.usu.edu/biology/directory/schaeffer-robert) group at Utah State University. I have further served as a research team lead on the NSF-funded bee/flower phenology LongTerm Ecological Research (LTER) project led by PI [Becky Irwin (NCSU)](https://cals.ncsu.edu/applied-ecology/people/reirwin/). Becky remains a close associate and serves on my PhD committee.
 ## Research
+#### All things must pass: science, and life, is about managing uncertainty.
 ![Washington Gulch and Crested Butte](assets/000016950031.jpg) The Washington Gulch, with Crested Butte in the left background and Whetstone Mountain in the far right, from the Painted Boy Mine, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta HP5, 2024.
+#### Environmental change takes many forms: there's climate change (changes to temperature and precipitation patterns, mostly), land use change, and changes to nutrient regimes - one recent interest of mine has been the affects of nitrogen deposition as a form of environmental change. Despite the nearly global scale of nitrogen deposition on this Earth, its effects on various ecologies are remarkably understudied.  
 #### My graduate research is funded by an NSF NRT fellowship through the [CAMBIUM program](https://cambium.arizona.edu) at the University of Arizona, as well as the [Jean H. Langenheim](https://en.wikipedia.org/wiki/Jean_Langenheim) graduate research fellowship at the RMBL.
 ![2025 field team, in front of mountain lake](assets/000086650033.jpg) 2025 bee-flower phenology LTER field team (back row, left to right: Abby Litchfield, Jade McLaughlin, Ian Garcia; front row: Nick Dabagia), on Galena Mountain, Gunnison County, CO, USA. N. Dabagia, via Minolta SRT 101 on Ilford Delta FP4, 2025.
 ## Papers
@@ -20,3 +22,5 @@
 #### with Valerie Martin, Daniel Souto-Vilaros, Robert Schaeffer, Becky Irwin, et al.
 ## Contact Me
 #### [lastname]@arizona[dot]edu
+## Random thoughts
+#### I did some research to find who is in my academic lineage (my advisor is my academic parent, my advisor's advisor is my grandparent, etc). If you've never used [The Academic Tree](https://academictree.org), give it a try. I went back far enough to discover Kant and Copernicus in our lineage...
